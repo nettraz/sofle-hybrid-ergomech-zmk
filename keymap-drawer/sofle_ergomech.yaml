@@ -65,7 +65,7 @@ layers:
   - END
   - PG UP
   - HOME
-  - PG DOWN
+  - PG DN
   raise:
   - BT CLR
   - {t: BT, h: '0'}
